@@ -1,0 +1,80 @@
+Order ID,Checkout Time,Dishes ID,Dishes Name,Counts,Unit Price,Adding Info
+1,10:36:21,14,Chow Mein,1,11,NA
+1,10:36:21,7,Beef with Broccoli,2,17,NA
+1,10:36:21,11,Mapo Tofu,2,10,NA
+1,10:36:21,12,Mushroom Soup,1,6.5,NA
+1,10:36:21,15,Rice,4,2.5,NA
+1,10:36:21,5,Roast Pork,3,13.5,NA
+1,10:36:21,1,Kung Pao Chicken,1,15,NA
+2,10:52:48,13,Wonton Soup,2,6.5,NA
+2,10:52:48,1,Kung Pao Chicken,3,15,NA
+2,10:52:48,6,Skillet Beef,1,18,NA
+2,10:52:48,7,Beef with Broccoli,3,17,NA
+2,10:52:48,8,Peking Roast Duck,3,25,NA
+2,10:52:48,10,Oil Braised King Prawns,2,22,NA
+2,10:52:48,15,Rice,6,2.5,NA
+3,11:10:28,1,Kung Pao Chicken,4,15,NA
+3,11:10:28,5,Roast Pork,2,13.5,NA
+3,11:10:28,9,Salt and Pepper Shrimp,3,20,NA
+3,11:10:28,10,Oil Braised King Prawns,1,22,NA
+3,11:10:28,11,Mapo Tofu,1,10,NA
+3,11:10:28,12,Mushroom Soup,1,6.5,NA
+3,11:10:28,14,Chow Mein,3,11,NA
+3,11:10:28,15,Rice,2,2.5,NA
+3,11:10:28,2,Ginger Garlic Chicken,1,14,NA
+4,11:29:54,9,Salt and Pepper Shrimp,1,20,NA
+4,11:29:54,4,Sweet and Sour Pork,5,12.5,NA
+4,11:29:54,10,Oil Braised King Prawns,1,22,NA
+4,11:29:54,12,Mushroom Soup,2,6.5,NA
+4,11:29:54,14,Chow Mein,3,11,NA
+4,11:29:54,15,Rice,1,2.5,NA
+4,11:29:54,2,Ginger Garlic Chicken,2,14,NA
+5,11:33:09,1,Kung Pao Chicken,2,15,NA
+5,11:33:09,15,Rice,3,2.5,NA
+5,11:33:09,14,Chow Mein,2,11,NA
+5,11:33:09,13,Wonton Soup,1,6.5,NA
+5,11:33:09,12,Mushroom Soup,3,6.5,NA
+5,11:33:09,8,Peking Roast Duck,1,25,NA
+5,11:33:09,4,Sweet and Sour Pork,1,12.5,NA
+6,12:04:32,7,Beef with Broccoli,2,17,NA
+6,12:04:32,15,Rice,5,2.5,NA
+6,12:04:32,14,Chow Mein,1,11,NA
+6,12:04:32,10,Oil Braised King Prawns,1,22,NA
+6,12:04:32,8,Peking Roast Duck,2,25,NA
+6,12:04:32,1,Kung Pao Chicken,2,15,NA
+6,12:04:32,6,Skillet Beef,1,18,NA
+6,12:04:32,4,Sweet and Sour Pork,1,12.5,NA
+7,14:22:58,15,Rice,2,2.5,NA
+7,14:22:58,14,Chow Mein,1,11,NA
+7,14:22:58,5,Roast Pork,4,13.5,NA
+7,14:22:58,8,Peking Roast Duck,4,25,NA
+7,14:22:58,10,Oil Braised King Prawns,1,22,NA
+7,14:22:58,11,Mapo Tofu,2,10,NA
+7,14:22:58,13,Wonton Soup,8,6.5,NA
+8,19:02:31,2,Ginger Garlic Chicken,4,14,NA
+8,19:02:31,6,Skillet Beef,2,18,NA
+8,19:02:31,9,Salt and Pepper Shrimp,1,20,NA
+8,19:02:31,11,Mapo Tofu,3,10,NA
+8,19:02:31,15,Rice,6,2.5,NA
+9,20:49:36,1,Kung Pao Chicken,5,15,NA
+9,20:49:36,4,Sweet and Sour Pork,1,12.5,NA
+9,20:49:36,7,Beef with Broccoli,1,17,NA
+9,20:49:36,12,Mushroom Soup,1,6.5,NA
+9,20:49:36,13,Wonton Soup,1,6.5,NA
+9,20:49:36,15,Rice,5,2.5,NA
+10,21:00:27,5,Roast Pork,2,13.5,NA
+10,21:00:27,6,Skillet Beef,3,18,NA
+10,21:00:27,8,Peking Roast Duck,1,25,NA
+10,21:00:27,14,Chow Mein,3,11,NA
+11,21:37:00,13,Wonton Soup,5,6.5,NA
+11,21:37:00,11,Mapo Tofu,1,10,NA
+11,21:37:00,1,Kung Pao Chicken,3,15,NA
+11,21:37:00,6,Skillet Beef,1,18,NA
+11,21:37:00,10,Oil Braised King Prawns,1,22,NA
+12,21:55:42,6,Skillet Beef,1,18,NA
+12,21:55:42,1,Kung Pao Chicken,1,15,NA
+12,21:55:42,3,Szechwan Chilli Chicken,5,16,NA
+12,21:55:42,4,Sweet and Sour Pork,1,12.5,NA
+12,21:55:42,14,Chow Mein,6,11,NA
+12,21:55:42,9,Salt and Pepper Shrimp,1,20,NA
+12,21:55:42,8,Peking Roast Duck,2,25,NA
