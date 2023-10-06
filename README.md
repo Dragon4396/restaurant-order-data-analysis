@@ -28,7 +28,7 @@ git clone [This-Repository-URL]
 
 ### 4. Navigate to the Project Directory:
 ```bash
-cd path/to/your/cloned/repository
+cd path/to/your/cloned/repository/restaurant-order-data-analysis
 ```
 
 ### 5. Launch Jupyter Notebook:
