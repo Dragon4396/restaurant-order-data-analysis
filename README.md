@@ -9,29 +9,29 @@ Before you begin, ensure you have met the following requirements:
 # Installation and Setup
 Follow these steps to set up and run this project:
 
-1. Install Jupyter Notebook:
+###1. Install Jupyter Notebook:
 You can install Jupyter using pip:
 ```bash
 pip install jupyter
 ```
 
-2. Install Required Python Libraries:
+###2. Install Required Python Libraries:
 You can install the required libraries using pip:
 ```bash
 pip install numpy pandas matplotlib
 ```
 
-3. Clone this Repository:
+###3. Clone this Repository:
 ```bash
 git clone [This-Repository-URL]
 ```
 
-4. Navigate to the Project Directory:
+###4. Navigate to the Project Directory:
 ```bash
 cd path/to/your/cloned/repository
 ```
 
-5. Launch Jupyter Notebook:
+###5. Launch Jupyter Notebook:
 From the project directory, run:
 ```bash
 jupyter notebook
