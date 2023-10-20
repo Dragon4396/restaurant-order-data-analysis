@@ -3,8 +3,8 @@ This project utilizes Jupyter Notebook and several Python libraries including nu
 
 # Prerequisites
 Before you begin, ensure you have met the following requirements:
-·A working Python installation (3.6 or higher is recommended)
-·pip (Python Package Installer)
+- A working Python installation (3.6 or higher is recommended)
+- pip (Python Package Installer)
 
 # Installation and Setup
 Follow these steps to set up and run this project:
