@@ -39,4 +39,4 @@ jupyter notebook
 This will open a new browser window or tab with the Jupyter Notebook interface. From there, you can navigate to the desired notebook file (.ipynb) and start the analysis!
 
 # Contributing
-If you want to contribute to this project, please fork this repository and create a pull request, or drop me an email at kha112@sfu.ca.
+If you want to contribute to this project, please fork this repository and create a pull request, or drop me an email at kha112@sfu.ca
